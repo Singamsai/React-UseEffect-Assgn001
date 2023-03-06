@@ -1,0 +1,9 @@
+.items{
+    margin: .8rem;
+    width: 16rem;
+    height: 22rem;
+}
+.items img{
+    height: 16rem;
+    width: 16rem;
+}

@@ -1,0 +1,27 @@
+.App{
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  margin-top: 24px;
+}
+input{
+  height: 2rem;
+  width: 60vw;
+  font-size: 1.6rem;
+}
+.inputbox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 36px;
+}
+button{
+  height: 2.5rem;
+  border: none;
+}
+.listofitems{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; 
+  justify-content: center;
+}
